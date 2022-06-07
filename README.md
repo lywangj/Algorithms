@@ -10,9 +10,9 @@ Compared with this, a basic brute force solution will be with time complexity O(
 - Exercise: Longest Substring without Repeating Characters
 - Input string = "bbabcabcdd"
 - Output: 4
-- explain: the longest substring w/o repeating characters is "abcd", and the length is 4.
-- 
-<img src="2022-06-06_002359.png" height="300">
+- Explain: the longest substring w/o repeating characters is "abcd", and the length is 4.
+
+<img src="images/2022-06-06_002359.png" height="300">
 
 #
 ### 02 Two Pointers
