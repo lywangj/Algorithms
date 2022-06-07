@@ -3,7 +3,7 @@ Learning plan for top 16 algorithms and data structures. The goal is to develop 
 
 ### Chapter 01. Sliding Window
 
-A sliding window pattern will solve this problem in an more effecient way, time complexity O(n)) - n as the size of the given array.
+A sliding window pattern will solve this problem in an more effecient way, **time complexity O(n)** - n as the size of the given array.
 Compared with this, a basic brute force solution will be with time complexity O(n*k) - k as the number of the targeted elements.
 
 - Exercise: Longest Substring without Repeating Characters
