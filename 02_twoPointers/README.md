@@ -1,4 +1,6 @@
 ### Longest Substring without Repeating Characters
+
+
 <!-- 
 Allow user to input a string, which consists of English letters, digits, symbols and spaces.
 
