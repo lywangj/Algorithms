@@ -17,4 +17,5 @@ Space complexity: O(1)
 - no extra space
 
 Constraints:
-- 0 <= string.length <= 10000
+- 1 <= arr.length <= 1000
+- 0 <= arr[i] <= 2
