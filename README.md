@@ -28,5 +28,7 @@ Compared with this, a basic brute force solution will be with time complexity O(
 <img src="images/2022-06-11_001942.png" height="260">
 
 #
-### Chapter 02. Fast & Slow Pointers
+### Chapter 03. Fast & Slow Pointers
+
+
 
