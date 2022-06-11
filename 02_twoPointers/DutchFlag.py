@@ -20,3 +20,65 @@ def main():
     print(arr)
 
 main()
+
+
+# check
+# check
+# check
+# check
+# check
+# check
+# check
+# check
+# check
+# check
+# check
+# check
+# check
+# check
+# check
+# check
+# check
+# check
+# check
+# check
+# check
+# check
+# check
+# check
+# check
+# check
+# check
+# check
+# check
+# check
+# check
+# check
+# check
+# check
+# check
+# check
+# check
+# check
+# check
+# check
+# check
+# check
+# check
+# check
+# check
+# check
+# check
+# check
+# check
+# check
+# check
+# check
+# check
+# check
+# check
+# check
+# check
+# check
+# check
+# check
