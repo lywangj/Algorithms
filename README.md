@@ -23,12 +23,21 @@ Compared with this, a basic brute force solution will be with time complexity O(
 - Exercise: Dutch National Flag Problem
 - Input array =  [2, 0, 1, 1, 1]
 - Output array = [0, 1, 1, 1, 2]
-- Explain: incrementally sort an array, containing only three objects (labled as 0, 1 & 2)
+- Explain: incrementally sort an array containing only three objects (labled as 0, 1 & 2)
 
 <img src="images/2022-06-11_001942.png" height="260">
 
 #
 ### Chapter 03. Fast & Slow Pointers
 
+Setting two pointers with different move speed would be **time complexity O(n)** and with space complexity O(1), no extra space. 
 
+- Exercise: Start of LinkedList Cycle
+- LinkedList = 1 -> 2 -> 3 -> 4 -> 5 -> 6 -> 3
+- starting node of cycle: 3
+- Explain: Node 3 is start of cycle (3 -> 4 -> 5 -> 6 -> 3)
 
+<img src="images/2022-06-15_002247.png" height="260">
+
+#
+### Chapter 04. Merge Intervals
