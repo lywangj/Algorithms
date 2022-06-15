@@ -37,7 +37,7 @@ Setting two pointers with different move speed would be **time complexity O(n)**
 - starting node of cycle: 3
 - Explain: Node 3 is start of cycle (3 -> 4 -> 5 -> 6 -> 3)
 
-<img src="images/2022-06-15_002247.png" height="260">
+<img src="images/2022-06-15_002247.png" height="280">
 
 #
 ### Chapter 04. Merge Intervals
