@@ -1,10 +1,6 @@
 ### Intervals Intersection
 
-Given two lists of **arr1** and **arr2**, which contains two numbers for each,
-
-and all the numbers in eqch list are in increment order.
-
-Try to output list of the intervals intersection.
+Given two lists of **arr1** and **arr2**, which contains two numbers for each, and all the numbers in eqch list are in increment order. Try to output list of the intervals intersection.
 
 - arr1 = [1, 3], [5, 6], [7, 9]
 - arr2 = [2, 3], [5, 7]
