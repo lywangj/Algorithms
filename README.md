@@ -5,7 +5,7 @@ Learning plan for top 16 algorithms and data structures. The goal is to develop 
 
 <a class="outlines" href="#two-pointers">--- 02. Two Pointers</a>
 
-<a class="outlines" href="#fast-slow-pointers">--- Chapter 03. Fast & Slow Pointers</a>
+<a class="outlines" href="#fast-slow-pointers">      03. Fast & Slow Pointers</a>
 
 #
 <h3 id="sliding-windows"> Chapter 01. Sliding Window </h3>
@@ -31,6 +31,7 @@ Compared with this, a basic brute force solution will be with time complexity O(
 - Explain: incrementally sort an array containing only three objects (labled as 0, 1 & 2)
 
 <img src="images/2022-06-11_001942.png" height="260">
+<a class="return" href="#top"> \<TOP\> </a>
 
 #
 ### Chapter 03. Fast & Slow Pointers
