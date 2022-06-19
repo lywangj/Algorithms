@@ -1,4 +1,4 @@
-## Algorithms
+<h2 id="top"> Algorithms </h2>
 Learning plan for top 16 algorithms and data structures. The goal is to develop an understanding of the underlying pattern and be able to solve a specific category of problems.
 
 <a class="outlines" href="#sliding-windows">--- 01. Sliding Window</a>
@@ -31,7 +31,7 @@ Compared with this, a basic brute force solution will be with time complexity O(
 - Explain: incrementally sort an array containing only three objects (labled as 0, 1 & 2)
 
 <img src="images/2022-06-11_001942.png" height="260">
-<a class="return" href="#top"> \<TOP\> </a>
+<a class="return" href="#top"> 《TOP》 </a>
 
 #
 ### Chapter 03. Fast & Slow Pointers
