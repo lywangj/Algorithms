@@ -5,6 +5,8 @@ Learning plan for top 16 algorithms and data structures. The goal is to develop 
 
 <a class="outlines" href="#two-pointers">--- 02. Two Pointers</a>
 
+<a class="outlines" href="#fast-slow-pointers">--- Chapter 03. Fast & Slow Pointers</a>
+
 #
 <h3 id="sliding-windows"> Chapter 01. Sliding Window </h3>
 A sliding window pattern will solve this problem in an more effecient way, **time complexity O(n)** - n as the size of the given array.
@@ -32,7 +34,7 @@ Compared with this, a basic brute force solution will be with time complexity O(
 
 #
 ### Chapter 03. Fast & Slow Pointers
-
+<h3 id="fast-slow-pointers"> Chapter 03. Fast & Slow Pointers </h3>
 Setting two pointers with different move speed would be **time complexity O(n)** and with space complexity O(1), no extra space. 
 
 - Exercise: Start of LinkedList Cycle
