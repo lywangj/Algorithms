@@ -9,6 +9,10 @@ Learning plan for top 16 algorithms and data structures. The goal is to develop 
 
 <a class="outlines" href="#fast-slow-pointers">______ 03. Fast & Slow Pointers</a>
 
+<a class="outlines" href="#merge-intervals">______ 04. Merge Intervals</a>
+
+<p></p>
+
 #
 <h3 id="sliding-windows"> Chapter 01. Sliding Window </h3>
 A sliding window pattern will solve this problem in an more effecient way, **time complexity O(n)** - n as the size of the given array.
