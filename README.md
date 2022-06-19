@@ -24,7 +24,7 @@ Compared with this, a basic brute force solution will be with time complexity O(
 - Explain: the longest substring w/o repeating characters is "abcd", and the length is 4.
 
 <img src="images/2022-06-06_002359.png" height="260">
-<a class="return" href="#top" align="left"> 《TOP》 </a>
+<a class="return" href="#top" align="right"> 《TOP》 </a>
 
 #
 <h3 id="two-pointers"> Chapter 02. Two Pointers </h3>
