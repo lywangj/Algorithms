@@ -1,6 +1,8 @@
 <h2 id="top"> Algorithms </h2>
 Learning plan for top 16 algorithms and data structures. The goal is to develop an understanding of the underlying pattern and be able to solve a specific category of problems.
 
+<p></p>
+
 <a class="outlines" href="#sliding-windows">______ 01. Sliding Window</a>
 
 <a class="outlines" href="#two-pointers">______ 02. Two Pointers</a>
@@ -35,7 +37,6 @@ Compared with this, a basic brute force solution will be with time complexity O(
 <a class="return" href="#top"> 《TOP》 </a>
 
 #
-### Chapter 03. Fast & Slow Pointers
 <h3 id="fast-slow-pointers"> Chapter 03. Fast & Slow Pointers </h3>
 Setting two pointers with different move speed would be **time complexity O(n)** and with space complexity O(1), no extra space. 
 
@@ -48,7 +49,7 @@ Setting two pointers with different move speed would be **time complexity O(n)**
 <a class="return" href="#top"> 《TOP》 </a>
 
 #
-### Chapter 04. Merge Intervals
+<h3 id="merge-intervals"> Chapter 04. Merge Intervals </h3>
 
 
 <a class="return" href="#top"> 《TOP》 </a>
