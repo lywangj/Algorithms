@@ -1,10 +1,11 @@
 ## Algorithms
 Learning plan for top 16 algorithms and data structures. The goal is to develop an understanding of the underlying pattern and be able to solve a specific category of problems.
 
-<a class="d-block width-auto" href="#quoting-text">02. Two Pointers</a>
+<a class="outlines" href="#sliding-windows">01. Sliding Window</a>
+<a class="outlines" href="#two-pointers">02. Two Pointers</a>
 
-### Chapter 01. Sliding Window
-
+#
+<h3 id="sliding-windows"> Chapter 01. Sliding Window </h3>
 A sliding window pattern will solve this problem in an more effecient way, **time complexity O(n)** - n as the size of the given array.
 Compared with this, a basic brute force solution will be with time complexity O(n*k) - k as the number of the targeted elements.
 
@@ -16,8 +17,7 @@ Compared with this, a basic brute force solution will be with time complexity O(
 <img src="images/2022-06-06_002359.png" height="260">
 
 #
-### Chapter 02. Two Pointers
-<h2 id="quoting-text"> Chapter 02. Two Pointers </h2>
+<h3 id="two-pointers"> Chapter 02. Two Pointers </h3>
 If input array is sorted, an efficient way, **time complexity O(n)**, would be to with one pointer in the beginning and another pointer at the end. At every step, pointers iterate through the remaining elements, until these two pointers pointing to the same elements.
 
 Compared with this, a basic brute force solution will be with time complexity O(n\*n), and a heapsort solution will be with O(n*logn).
