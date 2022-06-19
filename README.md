@@ -1,11 +1,11 @@
 <h2 id="top"> Algorithms </h2>
 Learning plan for top 16 algorithms and data structures. The goal is to develop an understanding of the underlying pattern and be able to solve a specific category of problems.
 
-<a class="outlines" href="#sliding-windows">--- 01. Sliding Window</a>
+<a class="outlines" href="#sliding-windows">______ 01. Sliding Window</a>
 
-<a class="outlines" href="#two-pointers">--- 02. Two Pointers</a>
+<a class="outlines" href="#two-pointers">______ 02. Two Pointers</a>
 
-<a class="outlines" href="#fast-slow-pointers">      03. Fast & Slow Pointers</a>
+<a class="outlines" href="#fast-slow-pointers">______ 03. Fast & Slow Pointers</a>
 
 #
 <h3 id="sliding-windows"> Chapter 01. Sliding Window </h3>
@@ -18,6 +18,7 @@ Compared with this, a basic brute force solution will be with time complexity O(
 - Explain: the longest substring w/o repeating characters is "abcd", and the length is 4.
 
 <img src="images/2022-06-06_002359.png" height="260">
+<a class="return" href="#top"> 《TOP》 </a>
 
 #
 <h3 id="two-pointers"> Chapter 02. Two Pointers </h3>
@@ -44,6 +45,10 @@ Setting two pointers with different move speed would be **time complexity O(n)**
 - Explain: Node 3 is start of cycle (3 -> 4 -> 5 -> 6 -> 3)
 
 <img src="images/2022-06-15_002247.png" height="280">
+<a class="return" href="#top"> 《TOP》 </a>
 
 #
 ### Chapter 04. Merge Intervals
+
+
+<a class="return" href="#top"> 《TOP》 </a>
