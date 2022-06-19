@@ -1,8 +1,9 @@
 ## Algorithms
 Learning plan for top 16 algorithms and data structures. The goal is to develop an understanding of the underlying pattern and be able to solve a specific category of problems.
 
-<a class="outlines" href="#sliding-windows">01. Sliding Window</a>
-<a class="outlines" href="#two-pointers">02. Two Pointers</a>
+<a class="outlines" href="#sliding-windows">--- 01. Sliding Window</a>
+
+<a class="outlines" href="#two-pointers">--- 02. Two Pointers</a>
 
 #
 <h3 id="sliding-windows"> Chapter 01. Sliding Window </h3>
