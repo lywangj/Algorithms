@@ -24,7 +24,7 @@ Compared with this, a basic brute force solution will be with time complexity O(
 - Explain: the longest substring w/o repeating characters is "abcd", and the length is 4.
 
 <img src="images/2022-06-06_002359.png" height="260">
-<a class="return" href="#top" align="right"> 《TOP》 </a>
+<a class="return" href="#top" style="text-align:right;"> 《TOP》 </a>
 
 #
 <h3 id="two-pointers"> Chapter 02. Two Pointers </h3>
@@ -54,6 +54,17 @@ Setting two pointers with different move speed would be **time complexity O(n)**
 
 #
 <h3 id="merge-intervals"> Chapter 04. Merge Intervals </h3>
+This would be an effecient way to deal with overlapping intervals with **time complexity O(n)** and space complexity O(1), no extra space.
 
+- Exercise: Intervals Intersection
+- arr1 = [1, 3], [5, 6], [7, 9]
+- arr2 = [2, 3], [5, 7]
+- output : [2, 3], [5, 6], [7, 7]
+
+<img src="images/2022-06-19_002229.png" height="280">
+<a class="return" href="#top"> 《TOP》 </a>
+
+#
+<h3 id="cyclic-sort"> Chapter 05. Cyclic Sort </h3>
 
 <a class="return" href="#top"> 《TOP》 </a>
