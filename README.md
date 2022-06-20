@@ -11,6 +11,8 @@ Learning plan for top 16 algorithms and data structures. The goal is to develop 
 
 <a class="outlines" href="#merge-intervals">______ 04. Merge Intervals</a>
 
+<a class="outlines" href="#cyclic-sort">______ 05. Cyclic Sort</a>
+
 <p></p>
 
 #
