@@ -34,7 +34,7 @@ If input array is sorted, an efficient way, **time complexity O(n)**, would be t
 
 Compared with this, a basic brute force solution will be with time complexity O(n\*n), and a heapsort solution will be with O(n*logn).
 
-- Exercise: Dutch National Flag Problem
+- Exercise: [Dutch National Flag Problem](02_twoPointers/)
 - Input array =  [2, 0, 1, 1, 1]
 - Output array = [0, 1, 1, 1, 2]
 - Explain: incrementally sort an array containing only three objects (labled as 0, 1 & 2)
@@ -46,7 +46,7 @@ Compared with this, a basic brute force solution will be with time complexity O(
 <h3 id="fast-slow-pointers"> Chapter 03. Fast & Slow Pointers </h3>
 Setting two pointers with different move speed would be **time complexity O(n)** and with space complexity O(1), no extra space. 
 
-- Exercise: Start of LinkedList Cycle
+- Exercise: [Start of LinkedList Cycle](03_fastSlowPointers/)
 - LinkedList = 1 -> 2 -> 3 -> 4 -> 5 -> 6 -> 3
 - starting node of cycle: 3
 - Explain: Node 3 is start of cycle (3 -> 4 -> 5 -> 6 -> 3)
@@ -58,7 +58,7 @@ Setting two pointers with different move speed would be **time complexity O(n)**
 <h3 id="merge-intervals"> Chapter 04. Merge Intervals </h3>
 This would be an effecient way to deal with overlapping intervals with **time complexity O(n)** and space complexity O(1), no extra space.
 
-- Exercise: Intervals Intersection
+- Exercise: [Intervals Intersection](04_mergeIntervals/)
 - arr1 = [1, 3], [5, 6], [7, 9]
 - arr2 = [2, 3], [5, 7]
 - output : [2, 3], [5, 6], [7, 7]
@@ -68,5 +68,7 @@ This would be an effecient way to deal with overlapping intervals with **time co
 
 #
 <h3 id="cyclic-sort"> Chapter 05. Cyclic Sort </h3>
+
+- Exercise: [Find all Duplicate Numbers](05_cyclicSort/)
 
 <a class="return" href="#top"> 《TOP》 </a>
