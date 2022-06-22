@@ -63,12 +63,17 @@ This would be an effecient way to deal with overlapping intervals with **time co
 - arr2 = [2, 3], [5, 7]
 - output : [2, 3], [5, 6], [7, 7]
 
-<img src="images/2022-06-19_002229.png" height="360">
+<img src="images/2022-06-19_002229.png" height="330">
 <a class="return" href="#top"> 《TOP》 </a>
 
 #
 <h3 id="cyclic-sort"> Chapter 05. Cyclic Sort </h3>
+With a given unsorted array, this would be an effecient way to sort and store all duplicate numbers with **time complexity O(n)** and space complexity O(1), no extra space.
 
 - Exercise: [Find all Duplicate Numbers](05_cyclicSort/)
+- nums = [3, 4, 4, 5, 5]
+- output : duplicateNumbers = [4, 5]
+
+<img src="images/2022-06-22_002115.png" height="260">
 
 <a class="return" href="#top"> 《TOP》 </a>
