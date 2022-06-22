@@ -19,7 +19,7 @@ Learning plan for top 16 algorithms and data structures. The goal is to develop 
 <h3 id="sliding-windows"> Chapter 01. Sliding Window </h3>
 A sliding window pattern will solve this problem in an more effecient way, <strong>time complexity O(n)</strong> - n as the size of the given array.
 Compared with this, a basic brute force solution will be with time complexity O(nk) - k as the number of the targeted elements.
-<br />
+<p></p>
 - Exercise: [Longest Substring without Repeating Characters](01_slidingWindow/)
 - Input string = "bbabcabcdd"
 - Output: 4
@@ -33,7 +33,7 @@ Compared with this, a basic brute force solution will be with time complexity O(
 If input array is sorted, an efficient way, <strong>time complexity O(n)</strong>, would be to with one pointer in the beginning and another pointer at the end. At every step, pointers iterate through the remaining elements, until these two pointers pointing to the same elements.
 
 Compared with this, a basic brute force solution will be with time complexity O(n\*n), and a heapsort solution will be with O(n*logn).
-
+<p></p>
 - Exercise: [Dutch National Flag Problem](02_twoPointers/)
 - Input array =  [2, 0, 1, 1, 1]
 - Output array = [0, 1, 1, 1, 2]
@@ -45,7 +45,7 @@ Compared with this, a basic brute force solution will be with time complexity O(
 #
 <h3 id="fast-slow-pointers"> Chapter 03. Fast & Slow Pointers </h3>
 Setting two pointers with different move speed would be <strong>time complexity O(n)</strong> and with space complexity O(1), no extra space. 
-
+<p></p>
 - Exercise: [Start of LinkedList Cycle](03_fastSlowPointers/)
 - LinkedList = 1 -> 2 -> 3 -> 4 -> 5 -> 6 -> 3
 - starting node of cycle: 3
@@ -57,7 +57,7 @@ Setting two pointers with different move speed would be <strong>time complexity 
 #
 <h3 id="merge-intervals"> Chapter 04. Merge Intervals </h3>
 This would be an effecient way to deal with overlapping intervals with <strong>time complexity O(n)</strong> and space complexity O(1), no extra space.
-
+<p></p>
 - Exercise: [Intervals Intersection](04_mergeIntervals/)
 - arr1 = [1, 3], [5, 6], [7, 9]
 - arr2 = [2, 3], [5, 7]
@@ -69,7 +69,7 @@ This would be an effecient way to deal with overlapping intervals with <strong>t
 #
 <h3 id="cyclic-sort"> Chapter 05. Cyclic Sort </h3>
 With a given unsorted array, this would be an effecient way to sort and store all duplicate numbers with <strong>time complexity O(n)</strong> and space complexity O(1), no extra space.
-
+<p></p>
 - Exercise: [Find all Duplicate Numbers](05_cyclicSort/)
 - nums = [3, 4, 4, 5, 5]
 - output : duplicateNumbers = [4, 5]
