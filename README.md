@@ -63,7 +63,7 @@ This would be an effecient way to deal with overlapping intervals with **time co
 - arr2 = [2, 3], [5, 7]
 - output : [2, 3], [5, 6], [7, 7]
 
-<img src="images/2022-06-19_002229.png" height="330">
+<img src="images/2022-06-19_002229.png" height="320">
 <a class="return" href="#top"> 《TOP》 </a>
 
 #
