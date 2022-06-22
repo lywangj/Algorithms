@@ -18,7 +18,7 @@ Learning plan for top 16 algorithms and data structures. The goal is to develop 
 #
 <h3 id="sliding-windows"> Chapter 01. Sliding Window </h3>
 A sliding window pattern will solve this problem in an more effecient way, <strong>time complexity O(n)</strong> - n as the size of the given array.
-Compared with this, a basic brute force solution will be with time complexity O(n*k) - k as the number of the targeted elements.
+Compared with this, a basic brute force solution will be with time complexity O(nk) - k as the number of the targeted elements.
 <br />
 - Exercise: [Longest Substring without Repeating Characters](01_slidingWindow/)
 - Input string = "bbabcabcdd"
