@@ -22,4 +22,4 @@ Constraints:
 - 0 <= string.length <= 10000
 
 <img src="../images/2022-06-06_002359.png" height="260">
-<a class="return" href="../README.md" style="text-align:right;"> 《TOP》 </a>
+<a class="return" href="../README.md" style="text-align:right;"> 《BACK》 </a>
