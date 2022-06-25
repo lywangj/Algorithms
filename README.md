@@ -13,6 +13,8 @@ Learning plan for top 16 algorithms and data structures. The goal is to develop 
 
 <a class="outlines" href="#cyclic-sort">______ 05. Cyclic Sort</a>
 
+<a class="outlines" href="#Reversal-linkedList">______ 06. In-place Reversal of a LinkedList</a>
+
 <p></p>
 
 #
@@ -80,5 +82,10 @@ With a given unsorted array, this would be an effecient way to sort and store al
 - output : duplicateNumbers = [4, 5]
 
 <img src="images/2022-06-22_002115.png" height="260">
+
+<a class="return" href="#top"> 《TOP》 </a>
+
+#
+<h3 id="Reversal-linkedList"> Chapter 06. In-place Reversal of a LinkedList </h3>
 
 <a class="return" href="#top"> 《TOP》 </a>
