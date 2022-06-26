@@ -19,3 +19,6 @@ Space complexity: O(1)
 Constraints:
 - 1 <= list.length <= 1000
 - list[i] = i
+
+<img src="../images/2022-06-26_002007.png" height="290">
+<a class="return" href="../README.md" style="text-align:right;"> 《BACK》 </a>
