@@ -95,4 +95,6 @@ An efficient pattern to implemnt in-place revere sub-list without extra space.
 - input-list : 1 -> 2 -> 3 -> 4 -> 5 -> null
 - output-list : 1 -> 4 -> 3 -> 2 -> 5 -> null
 
+<img src="images/2022-06-26_002007.png" height="290">
+
 <a class="return" href="#top"> 《TOP》 </a>
