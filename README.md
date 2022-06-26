@@ -87,5 +87,12 @@ With a given unsorted array, this would be an effecient way to sort and store al
 
 #
 <h3 id="Reversal-linkedList"> Chapter 06. In-place Reversal of a LinkedList </h3>
+An efficient pattern to implemnt in-place revere sub-list without extra space.
+
+- Exercise: [Reverse a Sub-list](06_reversedList/)
+- start to revere, p = 2
+- end to reverse, q = 4
+- input-list : 1 -> 2 -> 3 -> 4 -> 5 -> null
+- output-list : 1 -> 4 -> 3 -> 2 -> 5 -> null
 
 <a class="return" href="#top"> 《TOP》 </a>
