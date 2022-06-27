@@ -15,6 +15,8 @@ Learning plan for top 16 algorithms and data structures. The goal is to develop 
 
 <a class="outlines" href="#Reversal-linkedList">______ 06. In-place Reversal of a LinkedList</a>
 
+<a class="outlines" href="#Reversal-linkedList">______ 06. In-place Reversal of a LinkedList</a>
+
 <p></p>
 
 #
@@ -96,5 +98,17 @@ An efficient pattern to implemnt in-place revere sub-list without extra space.
 - output-list : 1 -> 4 -> 3 -> 2 -> 5 -> null
 
 <img src="images/2022-06-26_002007.png" height="290">
+
+<a class="return" href="#top"> 《TOP》 </a>
+
+#
+<h3 id="bfs"> Chapter 07. Breadth First Search </h3>
+Breadth First Search (BFS) technique provides a way to traverse a tree in a level-by-level order, and a Queue is used to keep track of all the nodes of a level.
+
+- Exercise: [Level Averages in a Binary Tree](07_bfs/)
+- tree: [1] -> [2, 3] -> [4, 5, null, 7]
+- avg: [1, 2.5, 5.3]
+
+<img src="images/2022-06-26_002032.png" height="130">
 
 <a class="return" href="#top"> 《TOP》 </a>
