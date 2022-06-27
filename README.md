@@ -15,7 +15,7 @@ Learning plan for top 16 algorithms and data structures. The goal is to develop 
 
 <a class="outlines" href="#Reversal-linkedList">______ 06. In-place Reversal of a LinkedList</a>
 
-<a class="outlines" href="#Reversal-linkedList">______ 06. In-place Reversal of a LinkedList</a>
+<a class="outlines" href="#Reversal-linkedList">______ 07. Breadth First Search</a>
 
 <p></p>
 
