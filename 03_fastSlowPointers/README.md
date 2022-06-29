@@ -21,4 +21,5 @@ Constraints:
 - ListNode(i)->next == ListNode(i), i < j < n-1
 - only one unique cycle in LinkedList
 
+<img src="../images/2022-06-15_002247.png" height="280">
 <a class="return" href="../README.md" style="text-align:right;"> 《BACK》 </a>
