@@ -20,4 +20,5 @@ Constraints:
 - for any [a, b], 1 <= a, b <= 1000
 - for any [a, b], [c, d] in a list, a < b <= c < d (increment order)
 
+<img src="../images/2022-06-19_002229.png" height="320">
 <a class="return" href="../README.md" style="text-align:right;"> 《BACK》 </a>
