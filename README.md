@@ -116,7 +116,7 @@ Breadth First Search (BFS) technique provides a way to traverse a tree in a leve
 <a class="return" href="#top"> 《TOP》 </a>
 
 #
-<h3 id="dfs"> Chapter 07. Depth First Search </h3>
+<h3 id="dfs"> Chapter 08. Depth First Search </h3>
 
 
 <a class="return" href="#top"> 《TOP》 </a>
