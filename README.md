@@ -17,6 +17,8 @@ Learning plan for top 16 algorithms and data structures. The goal is to develop 
 
 <a class="outlines" href="#bfs">______ 07. Breadth First Search</a>
 
+<a class="outlines" href="#dfs">______ 08. Depth First Search</a>
+
 <p></p>
 
 #
@@ -110,5 +112,11 @@ Breadth First Search (BFS) technique provides a way to traverse a tree in a leve
 - avg: [1, 2.5, 5.3]
 
 <img src="images/2022-06-26_002032.png" height="130">
+
+<a class="return" href="#top"> 《TOP》 </a>
+
+#
+<h3 id="dfs"> Chapter 07. Depth First Search </h3>
+
 
 <a class="return" href="#top"> 《TOP》 </a>
