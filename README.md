@@ -118,5 +118,13 @@ Breadth First Search (BFS) technique provides a way to traverse a tree in a leve
 #
 <h3 id="dfs"> Chapter 08. Depth First Search </h3>
 
+Using recursion, Depth First Search (DFS) is the approach to keep track of all the nodes while traversing.
+
+- Exercise: [Path with Correct Sequence](08_dfs/)
+- tree: [1] -> [0, 1] -> [1, null, 6, 5]
+- sequence: [1, 1, 6]
+- output: True
+
+<img src="images/2022-07-04_000116.png" height="130">
 
 <a class="return" href="#top"> 《TOP》 </a>
