@@ -18,3 +18,6 @@ Space complexity: O(1)
 Constraints:
 - 1 <= tree.level <= 100
 - 1 <= treeNode.value <= 1000
+
+<img src="../images/2022-07-04_000116.png" height="130">
+<a class="return" href="../README.md" style="text-align:right;"> 《BACK》 </a>
