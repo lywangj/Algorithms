@@ -19,6 +19,8 @@ Learning plan for top 16 algorithms and data structures. The goal is to develop 
 
 <a class="outlines" href="#dfs">______ 08. Depth First Search</a>
 
+<a class="outlines" href="#2heaps">______ 09. Two Heaps</a>
+
 <p></p>
 
 #
@@ -126,5 +128,23 @@ Using recursion, Depth First Search (DFS) is the approach to keep track of all t
 - output: True
 
 <img src="images/2022-07-04_000116.png" height="130">
+
+<a class="return" href="#top"> 《TOP》 </a>
+
+#
+<h3 id="2heaps"> Chapter 09. Two Heaps </h3>
+
+Two heaps
+
+- Exercise: [Find the Median of a Number Stream](09_TwoHeaps/)
+- 1. insertNum(3)
+- 2. insertNum(1)
+- 3. findMedian() -> output: 3
+- 4. insertNum(2)
+- 5. findMedian() -> output: 2
+- 6. insertNum(4)
+- 7. findMedian() -> output: 2.5
+
+<img src="images/2022-07-05_002241.png" height="280">
 
 <a class="return" href="#top"> 《TOP》 </a>
