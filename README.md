@@ -134,9 +134,9 @@ Using recursion, Depth First Search (DFS) is the approach to keep track of all t
 #
 <h3 id="2heaps"> Chapter 09. Two Heaps </h3>
 
-Two heaps
+Creating two heaps to store the given number stream, the time complexity of this approach will be only O(nlogn), rather than brute-force solution with time complexity O(n*n)
 
-- Exercise: [Find the Median of a Number Stream](09_TwoHeaps/)
+- Exercise: [Find the Median of a Number Stream](09_twoHeaps/)
 - 1. insertNum(3)
 - 2. insertNum(1)
 - 3. findMedian() -> output: 3
