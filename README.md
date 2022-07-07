@@ -21,6 +21,8 @@ Learning plan for top 16 algorithms and data structures. The goal is to develop 
 
 <a class="outlines" href="#2heaps">______ 09. Two Heaps</a>
 
+<a class="outlines" href="#subsets">______ 10. Subsets</a>
+
 <p></p>
 
 #
@@ -146,5 +148,10 @@ Creating two heaps to store the given number stream, the time complexity of this
 - 7. findMedian() -> output: 2.5
 
 <img src="images/2022-07-05_002241.png" height="280">
+
+<a class="return" href="#top"> 《TOP》 </a>
+
+#
+<h3 id="subsets"> Chapter 10. Subsets </h3>
 
 <a class="return" href="#top"> 《TOP》 </a>
