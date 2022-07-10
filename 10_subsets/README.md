@@ -21,5 +21,5 @@ Constraints:
 - 1 <= total number of **nums** <= 100
 - 1 <= nums[i] <= 100
 
-<img src="../images/2022-07-10_002209.png" height="260">
+<img src="../images/2022-07-10_002209.png" height="200">
 <a class="return" href="../README.md" style="text-align:right;"> 《BACK》 </a>
