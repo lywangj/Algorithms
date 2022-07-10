@@ -154,4 +154,12 @@ Creating two heaps to store the given number stream, the time complexity of this
 #
 <h3 id="subsets"> Chapter 10. Subsets </h3>
 
+subsets
+
+- Exercise: [Permutations](10_subsets/)
+- Input: **nums** = [1,3,5]
+- Output: [1,3,5], [1,5,3], [3,1,5], [3,5,1], [5,1,3], [5,3,1]
+
+<img src="images/2022-07-10_002209.png" height="260">
+
 <a class="return" href="#top"> 《TOP》 </a>
