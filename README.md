@@ -23,6 +23,8 @@ Learning plan for top 16 algorithms and data structures. The goal is to develop 
 
 <a class="outlines" href="#subsets">______ 10. Subsets</a>
 
+<a class="outlines" href="#binarySearch">______ 11. Binary Search</a>
+
 <p></p>
 
 #
@@ -161,5 +163,10 @@ Similar with breadth-first search, this subsets approach provides a solution wit
 - Output: [1,3,5], [1,5,3], [3,1,5], [3,5,1], [5,1,3], [5,3,1]
 
 <img src="images/2022-07-10_002209.png" height="200">
+
+<a class="return" href="#top"> 《TOP》 </a>
+
+#
+<h3 id="binarySearch"> Chapter 10. Binary Search </h3>
 
 <a class="return" href="#top"> 《TOP》 </a>
