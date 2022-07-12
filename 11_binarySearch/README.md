@@ -4,11 +4,11 @@ Given an array of numbers in ascending order, find the beginning and ending posi
 
 If **key** is not present in **arr**, then return [-1,-1].
 
-- Example1:
+Example1:
 - arr = [4, 6, 6, 6, 9], key = 6
 - Output: [1, 3]
 
-- Example2:
+Example2:
 - arr = [1, 3, 8, 10, 15], key = 12
 - Output: [-1, -1]
 
