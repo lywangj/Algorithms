@@ -169,4 +169,10 @@ Similar with breadth-first search, this subsets approach provides a solution wit
 #
 <h3 id="binarySearch"> Chapter 10. Binary Search </h3>
 
+As the efficient searching algorithm, binary search provide a solution with time complexity, O(logn), for finding an item from a sorted list of items.
+
+- Exercise: [Number Range](11_binarySearch/)
+- **arr** = [4, 6, 6, 6, 9], key = 6
+- Output: [1, 3]
+
 <a class="return" href="#top"> 《TOP》 </a>
