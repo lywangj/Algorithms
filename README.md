@@ -25,6 +25,8 @@ Learning plan for top 16 algorithms and data structures. The goal is to develop 
 
 <a class="outlines" href="#binarySearch">______ 11. Binary Search</a>
 
+<a class="outlines" href="#bitwise">______ 12. Bitwise</a>
+
 <p></p>
 
 #
@@ -167,12 +169,17 @@ Similar with breadth-first search, this subsets approach provides a solution wit
 <a class="return" href="#top"> 《TOP》 </a>
 
 #
-<h3 id="binarySearch"> Chapter 10. Binary Search </h3>
+<h3 id="binarySearch"> Chapter 11. Binary Search </h3>
 
 As the efficient searching algorithm, binary search provide a solution with time complexity, O(logn), for finding an item from a sorted list of items.
 
 - Exercise: [Number Range](11_binarySearch/)
 - **arr** = [4, 6, 6, 6, 9], key = 6
 - Output: [1, 3]
+
+<a class="return" href="#top"> 《TOP》 </a>
+
+#
+<h3 id="bitwise"> Chapter 12. Bitwise </h3>
 
 <a class="return" href="#top"> 《TOP》 </a>
