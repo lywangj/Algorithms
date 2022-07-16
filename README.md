@@ -3,30 +3,18 @@ Learning plan for top 16 algorithms and data structures. The goal is to develop 
 
 <p></p>
 
-<a class="outlines" href="#sliding-windows">______ 01. Sliding Window</a>
-
-<a class="outlines" href="#two-pointers">______ 02. Two Pointers</a>
-
-<a class="outlines" href="#fast-slow-pointers">______ 03. Fast & Slow Pointers</a>
-
-<a class="outlines" href="#merge-intervals">______ 04. Merge Intervals</a>
-
-<a class="outlines" href="#cyclic-sort">______ 05. Cyclic Sort</a>
-
-<a class="outlines" href="#Reversal-linkedList">______ 06. In-place Reversal of a LinkedList</a>
-
-<a class="outlines" href="#bfs">______ 07. Breadth First Search</a>
-
-<a class="outlines" href="#dfs">______ 08. Depth First Search</a>
-
-<a class="outlines" href="#2heaps">______ 09. Two Heaps</a>
-
-<a class="outlines" href="#subsets">______ 10. Subsets</a>
-
-<a class="outlines" href="#binarySearch">______ 11. Binary Search</a>
-
-<a class="outlines" href="#bitwise">______ 12. Bitwise</a>
-
+<a class="outlines" href="#sliding-windows">______ 01. Sliding Window</a><br>
+<a class="outlines" href="#two-pointers">______ 02. Two Pointers</a><br>
+<a class="outlines" href="#fast-slow-pointers">______ 03. Fast & Slow Pointers</a><br>
+<a class="outlines" href="#merge-intervals">______ 04. Merge Intervals</a><br>
+<a class="outlines" href="#cyclic-sort">______ 05. Cyclic Sort</a><br>
+<a class="outlines" href="#Reversal-linkedList">______ 06. In-place Reversal of a LinkedList</a><br>
+<a class="outlines" href="#bfs">______ 07. Breadth First Search</a><br>
+<a class="outlines" href="#dfs">______ 08. Depth First Search</a><br>
+<a class="outlines" href="#2heaps">______ 09. Two Heaps</a><br>
+<a class="outlines" href="#subsets">______ 10. Subsets</a><br>
+<a class="outlines" href="#binarySearch">______ 11. Binary Search</a><br>
+<a class="outlines" href="#bitwise">______ 12. Bitwise</a><br>
 <p></p>
 
 #
