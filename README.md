@@ -2,7 +2,6 @@
 Learning plan for top 16 algorithms and data structures. The goal is to develop an understanding of the underlying pattern and be able to solve a specific category of problems.
 
 <p></p>
-
 <a class="outlines" href="#sliding-windows">______ 01. Sliding Window</a><br>
 <a class="outlines" href="#two-pointers">______ 02. Two Pointers</a><br>
 <a class="outlines" href="#fast-slow-pointers">______ 03. Fast & Slow Pointers</a><br>
