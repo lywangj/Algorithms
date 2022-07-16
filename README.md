@@ -182,4 +182,9 @@ As the efficient searching algorithm, binary search provide a solution with time
 #
 <h3 id="bitwise"> Chapter 12. Bitwise </h3>
 
+
+- Exercise: [Single Number](12_bitwise/)
+- **arr**: 1, 4, 2, 1, 3, 2, 3
+- Output: 4
+
 <a class="return" href="#top"> 《TOP》 </a>
