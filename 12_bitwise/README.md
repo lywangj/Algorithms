@@ -10,7 +10,7 @@ Try to find that single number in **arr**.
 Task:
 - With bitwise XOR pattern to design an effeceint solution without extra space
 
-Time complexity: O(logn)
+Time complexity: O(n)
 - n as all numbers in **arr**
 
 Space complexity: O(1)
