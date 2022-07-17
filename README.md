@@ -169,6 +169,7 @@ As the efficient searching algorithm, binary search provide a solution with time
 #
 <h3 id="bitwise"> Chapter 12. Bitwise </h3>
 
+With time complexity O(n), bitwise operatioin provides a method for these problems without extra space. Compared with it, another common method is to add every numbers in the given array, but the sum will be overflowed, if the numbers in the given array are large.
 
 - Exercise: [Single Number](12_bitwise/)
 - **arr**: 1, 4, 2, 1, 3, 2, 3
