@@ -14,6 +14,7 @@ Learning plan for top 16 algorithms and data structures. The goal is to develop 
 <a class="outlines" href="#subsets">______ 10. Subsets</a><br>
 <a class="outlines" href="#binarySearch">______ 11. Binary Search</a><br>
 <a class="outlines" href="#bitwise">______ 12. Bitwise</a><br>
+<a class="outlines" href="#topKth">______ 13. Top Kth Elements</a><br>
 <p></p>
 
 #
@@ -174,5 +175,10 @@ With time complexity O(n), bitwise operatioin provides a method for these proble
 - Exercise: [Single Number](12_bitwise/)
 - **arr**: 1, 4, 2, 1, 3, 2, 3
 - Output: 4
+
+<a class="return" href="#top"> 《TOP》 </a>
+
+#
+<h3 id="topKth"> Chapter 13. Top Kth Elements </h3>
 
 <a class="return" href="#top"> 《TOP》 </a>
