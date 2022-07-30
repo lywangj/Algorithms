@@ -15,6 +15,7 @@ Learning plan for top 16 algorithms and data structures. The goal is to develop 
 <a class="outlines" href="#binarySearch">______ 11. Binary Search</a><br>
 <a class="outlines" href="#bitwise">______ 12. Bitwise</a><br>
 <a class="outlines" href="#topKth">______ 13. Top Kth Elements</a><br>
+<a class="outlines" href="#KMerge">______ 14. K-way Merge</a><br>
 <p></p>
 
 #
@@ -180,5 +181,10 @@ With time complexity O(n), bitwise operatioin provides a method for these proble
 
 #
 <h3 id="topKth"> Chapter 13. Top Kth Elements </h3>
+
+<a class="return" href="#top"> 《TOP》 </a>
+
+#
+<h3 id="KMerge"> Chapter 14. K-way Merge </h3>
 
 <a class="return" href="#top"> 《TOP》 </a>
