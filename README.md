@@ -182,7 +182,7 @@ With time complexity O(n), bitwise operatioin provides a method for these proble
 #
 <h3 id="topKth"> Chapter 13. Top Kth Elements </h3>
 
-- Exercise: [Single Number](14_kMerge/)
+- Exercise: [Single Number](13_topKth/)
 - **arr**: 1, 4, 2, 1, 3, 2, 3
 - Output: 4
 
@@ -191,7 +191,7 @@ With time complexity O(n), bitwise operatioin provides a method for these proble
 #
 <h3 id="KMerge"> Chapter 14. K-way Merge </h3>
 
-- Exercise: [Single Number](14_kway_merge/)
+- Exercise: [Single Number](14_kMerge/)
 - **arr**: 1, 4, 2, 1, 3, 2, 3
 - Output: 4
 
