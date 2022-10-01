@@ -8,15 +8,15 @@ find the length of the longest substring without repeating characters
 - Output: 4
 - explain: the longest substring w/o repeating characters is "abcd", and the length is 4.
 
-Task:
+**Task**:
 - Following sliding window pattern, to solve this problem with TC O(n)
 - instead of Hashmap, an array can be a faster way to store each characters
 
-Time complexity: O(n)
-- n as the length of input string 
+**Exercise**: [longestSubstr.py](longestSubstr.py)
 
-Space complexity: O(n)
-- n as the length of dictionary (storing max. 128 types of characters)
+Time complexity: O(n), n as the length of input string 
+
+Space complexity: O(n), n as the length of dictionary (storing max. 128 types of characters)
 
 Constraints:
 - 0 <= string.length <= 10000
