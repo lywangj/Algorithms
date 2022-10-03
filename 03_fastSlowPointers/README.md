@@ -7,14 +7,14 @@ try to find the starting node of the cycle.
 - LinkedList = 1 -> 2 -> 3 -> 4 -> 5 -> 6 -> 3
 - starting node of cycle: 3
 
-Task:
+**Task**:
 - Using two pointers, one moving faster than the other, to solve this problem without any extra space
 
-Time complexity: O(n)
-- N as the length of the given LinkedList
+**Exercise**: [LinkedListCycle.py](/LinkedListCycle.py)
 
-Space complexity: O(1)
-- no extra space
+Time complexity: O(n), N as the length of the given LinkedList
+
+Space complexity: O(1), no extra space
 
 Constraints:
 - 0 <= n, Number of ListNodes <= 1000
