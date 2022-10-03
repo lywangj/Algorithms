@@ -10,7 +10,7 @@ try to find the starting node of the cycle.
 **Task**:
 - Using two pointers, one moving faster than the other, to solve this problem without any extra space
 
-**Exercise**: [LinkedListCycle.py](/LinkedListCycle.py)
+**Exercise**: [LinkedListCycle.py](LinkedListCycle.py)
 
 Time complexity: O(n), N as the length of the given LinkedList
 
