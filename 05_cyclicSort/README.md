@@ -7,14 +7,13 @@ find all of the duplicate numbers.
 - nums = [3, 4, 4, 5, 5]
 - output : [4, 5]
 
-Task:
-- With cyclic sort pattern, find all duplicate numbers in the given list.
+**Task**: With cyclic sort pattern, find all duplicate numbers in the given list.
 
-Time complexity: O(n)
-- N as the size of **nums** and the swap times
+**Exercise**: [duplicateNumbers.py](duplicateNumbers.py)
 
-Space complexity: O(1)
-- in constant space
+Time complexity: O(n), N as the size of **nums** and the swap times
+
+Space complexity: O(1), in constant space
 
 Constraints:
 - 1 <= nums.length <= 1000
