@@ -6,14 +6,14 @@ Given a binary tree and a number sequence, find if the sequence is present in th
 - sequence: [1, 1, 6]
 - output: True
 
-Task:
+**Task**:
 - With depth-first search, search through all root-to-leaf paths and find if the nodes match the given sequence.
 
-Time complexity: O(n)
-- n as the total number of nodes in the tree
+**Exercise**: [PathCorrectSeq.py](PathCorrectSeq.py)
 
-Space complexity: O(1)
-- no extra space
+Time complexity: O(n), n as the total number of nodes in the tree
+
+Space complexity: O(1), no extra space
 
 Constraints:
 - 1 <= tree.level <= 100
