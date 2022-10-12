@@ -13,8 +13,10 @@ Given a series of **num** is handled by two actions step-by-step.
 - 6. insertNum(4)
 - 7. findMedian() -> output: 2.5
 
-Task:
+**Task**:
 - Design a class which contains one maxheap and minheap to store every inserted number, and methods to calculate the median of a inserted numbers.
+
+**Exercise**: [median.py](median.py)
 
 Time complexity: O(nlogn)
 - For inserting an item into a heap, the TC will be O(logn)
