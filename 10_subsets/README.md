@@ -10,6 +10,8 @@ find all of its permutations.
 Task:
 - Following the Subsets pattern, slove this problem with an efficient approach
 
+**Exercise**: [permutations.py](permutations.py)
+
 Time complexity: O(n*n!)
 - n as the length of **nums**
 - n! as all the combinations of permutations 
