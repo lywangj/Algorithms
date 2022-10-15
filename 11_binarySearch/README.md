@@ -12,14 +12,13 @@ Example2:
 - arr = [1, 3, 8, 10, 15], key = 12
 - Output: [-1, -1]
 
-Task:
-- With binary search method to design an effeceint solution
+**Task**: With binary search method to design an effeceint solution
 
-Time complexity: O(logn)
-- n as the length of **arr**
+**Exercise**: [numberRange.py](numberRange.py)
 
-Space complexity: O(1)
-- no extra space
+Time complexity: O(logn), n as the length of **arr**
+
+Space complexity: O(1), no extra space
 
 Constraints:
 - 1 <= len(**arr**) <= 100
